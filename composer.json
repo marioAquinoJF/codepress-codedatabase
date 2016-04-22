@@ -1,7 +1,29 @@
 {
     "name": "marioaquinojf/code-category",
+    "description": "Code.education repository pattern library based on laravel",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "repository",
+        "criteria"
+    ],
+    "authors": [
+        {
+            "name": "Luiz Carlos",
+            "email": "argentinaluiz@gmail.com"
+        },
+        {
+            "name": "Wesley Willians",
+            "email": "wesleywillians@gmail.com"
+        },
+        {
+            "name": "Mário Henrique",
+            "email": "marioaquino31@hotmail.com"
+        }
+    ],
+    "homepage": "http://www.schoolofnet.com",
     "riquire": {
-        "illuminate/database": "~5.2"        
+        "illuminate/database": "~5.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0",

@@ -1,5 +1,5 @@
 {
-    "name": "codepress/code-category",
+    "name": "marioaquinojf/code-category",
     "riquire": {
         "illuminate/database": "~5.2"        
     },
